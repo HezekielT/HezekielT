@@ -28,8 +28,10 @@
 [<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
+
+[linkedin]: https://linkedin.com
+[instagram]: https://instagram.com
+
 ---
 <img align="left" alt="hizkiel's github stats" src="https://github-readme-stats.vercel.app/api?username=HezekielT&show_icons=true&hide_border=true"/>
 ---
-[linkedin]: https://linkedin.com
-[instagram]: https://instagram.com
