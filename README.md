@@ -31,7 +31,7 @@
 
 
 ---
-<img align="left" alt="hizkiel's github stats" src="https://github-readme-stats.vercel.app/api?username=HezekielT&=contribs,stars&count_private=true&show_icons=true"/>
+<img align="left" alt="hizkiel's github stats" src="https://github-readme-stats.vercel.app/api?username=HezekielT&hide=contribs,stars&count_private=true&show_icons=true"/>
 
 
 [linkedin]: https://linkedin.com
