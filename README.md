@@ -29,6 +29,9 @@
 [<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 ---
+
+### GitHub's Stats:
+
 <img align="left" display="inline-block" alt="hizkiel's github stats" src="https://github-readme-stats.vercel.app/api?username=HezekielT&hide=contribs,stars&count_private=true&show_icons=true"/>
 
 <img align="left" display="inline-block" alt="hizkiel's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HezekielT&layout=compact&count_private=true&show_icons=true"/>
