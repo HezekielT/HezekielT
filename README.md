@@ -30,7 +30,7 @@
 
 ---
 
-### GitHub's Stats:
+### GitHub Stats:
 
 <img align="left" display="inline-block" alt="hizkiel's github stats" src="https://github-readme-stats.vercel.app/api?username=HezekielT&hide=contribs,stars&count_private=true&show_icons=true"/>
 
