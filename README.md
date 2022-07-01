@@ -1,6 +1,6 @@
 ### Hi, My Name is Hezekiel
 
-## I'm a Full-Stack [ MERN | MEAN ] Developer, a Linux Entusiatic!
+## I'm a Full-Stack [ MERN | MEAN ] Developer and a Linux Entusiatic!
 
 - I'm currently working on a [ REAL-TIME TAXI APP using MERN Stack ]
 - I'm looking to work with other Developers.
